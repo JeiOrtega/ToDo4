@@ -1,15 +1,15 @@
 # ToDo4
-Historia del cliente que quiere pagar!
+História do cliente que quer pagar!
 
-Mi ToDo4 fue hecho con la finalidad de darle un resumen al cliente de sus respuestas despues de tantas preguntas... como funciona?
+Meu ToDo4 foi feito com o intuito de dar ao cliente um resumo de suas respostas depois de tantas perguntas... como funciona?
 
-Usando la biblioteca de "chalk" pude diferenciar las diferentes opcines que el cliente que va tomando a lo largo de la lista. eso ayuda a indentificar cada momento de la historia con la ayuda de colores.
+Usando a biblioteca "chalk", consegui diferenciar as diferentes opções que o cliente estava levando ao longo da lista. que ajuda a identificar cada momento da história com a ajuda de cores.
 
-La segunda bibilioteca que use fue la de "readlinesync" donde me ayuda a colocar las repsuestas del usuario en mi terminal, guardando sus respuestas para poder usarlas en la lista de preguntas.
+A segunda biblioteca que usei foi a biblioteca "readlinesync" onde ela me ajuda a colocar as respostas do usuário no meu terminal, salvando suas respostas para que eu possa usá-las na lista de perguntas.
 
-como funciona el codigo? 
-Al abrir el terminal y escribir el codigo node index.js empieza a rodar el codigo con las preguntas traidas por el readlinesync, asi mismo cada respuesta que da el cliente es diferenciada por un color. Al final de las preguntas y repsuestas aparece la function del resumen que unicamente es mostrada al contestar la ultima pregunta de la lista.
+como funciona o código?
+Ao abrir o terminal e escrever o código do node index.js, o código começa a rodar com as perguntas trazidas pelo readlinesync, assim como cada resposta dada pelo cliente é diferenciada por uma cor. Ao final das perguntas e respostas aparece a função de resumo que só é mostrada ao responder a última pergunta da lista.
 
-las preguntas fueron formadas con "if y else" para poder dar dos opciones de respuesta para que el cliente pueda elegir la manera mas comoda de pagar.
+As perguntas foram formadas com "if and else" para poder dar duas opções de resposta para que o cliente possa escolher a forma mais confortável de pagar.
 
-pruebe y verifique! conteste las preguntas correctamente.
+tente e confira! Responda as questões corretamente.
